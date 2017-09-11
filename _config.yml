@@ -6,15 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: graydenprince.com
-email: no-email
+title: GRAYDEN PRINCE
+email: 
 description: > # this means to ignore newlines until "baseurl:"
   Hallo Esther.Hi Dillon. 
   It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: notwitter 
+twitter_username: no
 github_username:  no
 
 # Build settings
