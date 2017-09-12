@@ -45,6 +45,15 @@ video {
   min-width: 140px;
   flex: 1;
 }
+.nav a {
+  float: left;
+  display: block;
+  color:#080bce;
+  text-align:center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font size: 18px;
+}
 
 .nav h1 {
   padding-left: 20px;
