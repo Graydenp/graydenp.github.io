@@ -48,6 +48,9 @@ video {
   margin: 0 0 3em 0;
   list-style: none;
   float:left;
+  background-color: #f2f2f2;
+  border-bottom: 1px solid #ccc;
+  border-top 1px solid #ccc;
  }
 
 .nav ul {
@@ -69,13 +72,16 @@ video {
 
 .nav a {
   text-decoration: none;
-  color: #fff;
+  color: #069;
   display: block;
-  transition: .3s background-color;
+  padding: 8px 15px;
+  font-weight: bold;
+  border-right; 1px solid #ccc;
 }
 
 .nav a:hover {
-  background-color: #005f5f;
+  color: #c00;
+  background-color: #fff;
 }
 
 .nav a.active {
