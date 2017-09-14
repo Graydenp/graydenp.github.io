@@ -9,7 +9,8 @@ body {
 
 footer {
   text-align: center;
-  font: Merriweather;
+  font-family: Merriweather;
+  height: 5%
 }
 
 section {
