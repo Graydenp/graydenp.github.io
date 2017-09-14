@@ -33,7 +33,9 @@ video {
 }
 
 .container {
-  display: flex;
+  overflow: hidden;
+  width: 100%;
+  margin: 0 auto 0 auto;
 }
 
 .main {
