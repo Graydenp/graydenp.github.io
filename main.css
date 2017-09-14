@@ -30,6 +30,8 @@ div {
 img {
   background-color: #000;
   border: 2px solid black;
+  width: 750px;
+  height: 750px;
 }
 
 
