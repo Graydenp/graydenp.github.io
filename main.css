@@ -10,6 +10,8 @@ body {
 section {
   text-align: center;
   width: 100%;
+  background-color: #665eff;
+  border= 4px;
 }
 
 h1 {
