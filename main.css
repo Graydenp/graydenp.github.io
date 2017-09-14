@@ -30,8 +30,10 @@ div {
 img {
   background-color: #000;
   border: 2px solid black;
-  width: 750px;
-  height: 750px;
+  display: block;
+  margin: auto;
+  width: 35%;
+  height: 35%;
 }
 
 
