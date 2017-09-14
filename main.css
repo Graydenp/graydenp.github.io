@@ -27,6 +27,12 @@ div {
   width: 100%;
 }
 
+img {
+  background-color: #000;
+  border: 2px solid black;
+}
+
+
 video {
   background-color: #000000;
   border: 2px solid blue;
