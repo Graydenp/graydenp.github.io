@@ -7,6 +7,11 @@ body {
   background: #ccc;
 }
 
+footer {
+  text-align:center;
+  font: Merriweather;
+}
+
 section {
   text-align: center;
   width: 100%;
